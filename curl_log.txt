@@ -1,4 +1,0 @@
-Fri 17 Oct 2025 13:06:52 CEST: https://www.google.com is UP
-Fri 17 Oct 2025 13:06:53 CEST: https://facebook.com is UP
-Fri 17 Oct 2025 13:06:53 CEST: https://twitter.com is UP
-Fri 17 Oct 2025 13:06:54 CEST: https://www.google.com/nonexistent-page is DOWN (HTTP 404)
