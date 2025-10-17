@@ -2,6 +2,7 @@
 
 #оголошуємо масив з URL вебсайтів, які потрібно перевірити
 urls=("https://www.google.com" "https://facebook.com" "https://twitter.com" "https://www.google.com/nonexistent-page")
+
 #проходимося по кожному URL в масиві
 for url in "${urls[@]}"
 do
